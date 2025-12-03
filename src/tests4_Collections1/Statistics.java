@@ -1,4 +1,4 @@
-package tests4_Collections;
+package tests4_Collections1;
 
 import java.util.HashMap;
 import java.util.HashSet;
