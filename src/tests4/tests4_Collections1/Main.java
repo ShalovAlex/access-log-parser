@@ -1,4 +1,4 @@
-package tests4_Collections1;
+package tests4.tests4_Collections1;
 
 import java.util.Map;
 
