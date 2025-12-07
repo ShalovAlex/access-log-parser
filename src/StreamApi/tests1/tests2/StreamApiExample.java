@@ -1,4 +1,4 @@
-package StreamApi.tests1.tests1;
+package StreamApi.tests1.tests2;
 
 import java.util.ArrayList;
 import java.util.Arrays;

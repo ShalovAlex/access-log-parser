@@ -1,10 +1,9 @@
-package StreamApi.tests1;
+package StreamApi.tests1.test1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class StreamApiExample {
     public static void main(String[] args) {
